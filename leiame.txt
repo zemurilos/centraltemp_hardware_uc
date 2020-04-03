@@ -1,0 +1,4 @@
+Aqui contêm os arquivos com os programas utilizados nos ucs ESP8266 e STM32.
+Futuramente, abaixo haverão listas de repositórios e/ou outros itens necessários para configuração.
+
+:)
